@@ -1,0 +1,6 @@
+Shoppinglist.txt
+
+Apples
+oranges 
+oranges
+pinepple
